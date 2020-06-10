@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tadhglewis/issue-status/static/css/main.b427710c.chunk.css",
-    "main.js": "/tadhglewis/issue-status/static/js/main.23011dac.chunk.js",
-    "main.js.map": "/tadhglewis/issue-status/static/js/main.23011dac.chunk.js.map",
-    "runtime-main.js": "/tadhglewis/issue-status/static/js/runtime-main.d75da592.js",
-    "runtime-main.js.map": "/tadhglewis/issue-status/static/js/runtime-main.d75da592.js.map",
-    "static/js/2.cbf271f4.chunk.js": "/tadhglewis/issue-status/static/js/2.cbf271f4.chunk.js",
-    "static/js/2.cbf271f4.chunk.js.map": "/tadhglewis/issue-status/static/js/2.cbf271f4.chunk.js.map",
-    "index.html": "/tadhglewis/issue-status/index.html",
-    "precache-manifest.5e5fd744e7b77a332dd288dd8121a08c.js": "/tadhglewis/issue-status/precache-manifest.5e5fd744e7b77a332dd288dd8121a08c.js",
-    "service-worker.js": "/tadhglewis/issue-status/service-worker.js",
-    "static/css/main.b427710c.chunk.css.map": "/tadhglewis/issue-status/static/css/main.b427710c.chunk.css.map",
-    "static/js/2.cbf271f4.chunk.js.LICENSE.txt": "/tadhglewis/issue-status/static/js/2.cbf271f4.chunk.js.LICENSE.txt"
+    "main.css": "/issue-status/static/css/main.b427710c.chunk.css",
+    "main.js": "/issue-status/static/js/main.23c6a5ac.chunk.js",
+    "main.js.map": "/issue-status/static/js/main.23c6a5ac.chunk.js.map",
+    "runtime-main.js": "/issue-status/static/js/runtime-main.42146433.js",
+    "runtime-main.js.map": "/issue-status/static/js/runtime-main.42146433.js.map",
+    "static/js/2.b24f2163.chunk.js": "/issue-status/static/js/2.b24f2163.chunk.js",
+    "static/js/2.b24f2163.chunk.js.map": "/issue-status/static/js/2.b24f2163.chunk.js.map",
+    "index.html": "/issue-status/index.html",
+    "precache-manifest.c3344582afad16cefaca5e9cbad6e230.js": "/issue-status/precache-manifest.c3344582afad16cefaca5e9cbad6e230.js",
+    "service-worker.js": "/issue-status/service-worker.js",
+    "static/css/main.b427710c.chunk.css.map": "/issue-status/static/css/main.b427710c.chunk.css.map",
+    "static/js/2.b24f2163.chunk.js.LICENSE.txt": "/issue-status/static/js/2.b24f2163.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d75da592.js",
-    "static/js/2.cbf271f4.chunk.js",
+    "static/js/runtime-main.42146433.js",
+    "static/js/2.b24f2163.chunk.js",
     "static/css/main.b427710c.chunk.css",
-    "static/js/main.23011dac.chunk.js"
+    "static/js/main.23c6a5ac.chunk.js"
   ]
 }
